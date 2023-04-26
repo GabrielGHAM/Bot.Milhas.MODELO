@@ -21,7 +21,8 @@ O ComproMilhasBot é um bot de automação para a compra e venda de milhas de pr
 - Telegram Bot API
 - Sequelize
 - MySQL
-*Inicialmente foi feito a hospedagem em um servidor AWS EC2, porém a pedidos do cliente, foi transferido para um servidor próprio para Bots (HostSquare)
+- 
+(Inicialmente foi feito a hospedagem em um servidor AWS EC2, porém a pedidos do cliente, foi transferido para um servidor próprio para Bots (HostSquare))
 
 ### Screenshot Antes do bot:
 ![Antes](https://i.imgur.com/BdWi9g5.png)
