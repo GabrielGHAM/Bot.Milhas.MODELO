@@ -7,13 +7,13 @@ O ComproMilhasBot é um bot privado desenvolvido para o grupo do Telegram "Compr
 
 ## Descrição
 
-O ComproMilhasBot é um bot de automação para a compra e venda de milhas de programas de fidelidade de companhias aéreas. Ele automatiza a busca de cotações e negociação com potenciais compradores e vendedores, tornando o processo mais rápido e eficiente.
+O ComproMilhasBot é um bot de automação para a compra e venda de milhas de programas de fidelidade de companhias aéreas. Ele automatiza o processo de postagem para ofertas no grupo e armazena todas as informações das ofertas ( Valor, programa, cliente, quantidade...) em uma banco de dados Relacional.
 
 ## Funcionalidades
 
-- Consulta de cotações de compra e venda de milhas em diferentes programas de fidelidade
-- Negociação automatizada com potenciais compradores e vendedores
-- Acompanhamento do histórico de negociações
+- Menu com todas opções e informações organizadas.
+- Oferta de compra com diversos sistemas de Milhas/Voucher/Wallet/Pontos disponíveis.
+- Sistema de recomendação do usuário com média das notas para fins de confiabilidade da oferta.
 
 ## Tecnologias utilizadas
 
